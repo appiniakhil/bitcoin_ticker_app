@@ -1,4 +1,4 @@
-# coin_ticker_app
+# Bitcoin_ticker_app_using_API
 A bitcoin ticker app is a mobile application that allows users to track the current prices of bitcoin and other cryptocurrencies in real-time. The app relies on an API, which is a set of programming instructions that allow different software applications to communicate with each other.
 
 The app is designed with a simple and user-friendly interface that displays the current bitcoin price in various currencies. The user can select their preferred currency from a list of available options, such as USD, EUR, GBP, and more. The app will then retrieve the latest bitcoin price from the API and convert it to the selected currency.
